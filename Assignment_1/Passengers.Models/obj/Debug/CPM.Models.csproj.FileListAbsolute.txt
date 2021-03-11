@@ -1,0 +1,11 @@
+C:\Users\NISHU\source\repos\CPM.Models\bin\Debug\CPM.Models.dll
+C:\Users\NISHU\source\repos\CPM.Models\bin\Debug\CPM.Models.pdb
+C:\Users\NISHU\source\repos\CPM.Models\obj\Debug\CPM.Models.csprojAssemblyReference.cache
+C:\Users\NISHU\source\repos\CPM.Models\obj\Debug\CPM.Models.csproj.CoreCompileInputs.cache
+C:\Users\NISHU\source\repos\CPM.Models\obj\Debug\CPM.Models.dll
+C:\Users\NISHU\source\repos\CPM.Models\obj\Debug\CPM.Models.pdb
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\bin\Debug\CPM.Models.dll
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\bin\Debug\CPM.Models.pdb
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\obj\Debug\CPM.Models.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\obj\Debug\CPM.Models.dll
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\obj\Debug\CPM.Models.pdb

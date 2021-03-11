@@ -1,0 +1,5 @@
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\bin\Debug\CPM.Models.dll
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\bin\Debug\CPM.Models.pdb
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\obj\Debug\Passengers.Models.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\obj\Debug\CPM.Models.dll
+C:\Users\darsh\source\repos\assignment\Project\CPM.Models\obj\Debug\CPM.Models.pdb

@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.TestProject\\CPM.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.BAL\\CPM.BAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.BAL\\CPM.BAL.csproj",
+        "projectName": "CPM.BAL",
+        "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.BAL\\CPM.BAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.DAL\\CPM.DAL.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.DAL\\CPM.DAL.csproj"
+              },
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.DAL\\CPM.DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.DAL\\CPM.DAL.csproj",
+        "projectName": "CPM.DAL",
+        "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.DAL\\CPM.DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj",
+        "projectName": "CPM.Models",
+        "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.TestProject\\CPM.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.TestProject\\CPM.Test.csproj",
+        "projectName": "CPM.Test",
+        "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.TestProject\\CPM.Test.csproj",
+        "packagesPath": "C:\\Users\\darsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.TestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\darsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.BAL\\CPM.BAL.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.BAL\\CPM.BAL.csproj"
+              },
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.DAL\\CPM.DAL.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.DAL\\CPM.DAL.csproj"
+              },
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj"
+              },
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\TestingAssignment\\TestingAssignment.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\TestingAssignment\\TestingAssignment.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "AutoFixture.AutoNSubstitute": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\TestingAssignment\\TestingAssignment.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\TestingAssignment\\TestingAssignment.csproj",
+        "projectName": "TestingAssignment",
+        "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\TestingAssignment\\TestingAssignment.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.BAL\\CPM.BAL.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.BAL\\CPM.BAL.csproj"
+              },
+              "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj": {
+                "projectPath": "C:\\Users\\darsh\\source\\repos\\assignment\\Project\\CPM.Models\\CPM.Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
